@@ -1,13 +1,17 @@
 {
   "name": "jWorkflow",
-  "version" : "0.8.0",
+  "version" : "0.9.0",
   "description" : "dude, wheres my workflow?",
-  "homepage": "https://github.com/tinyhippos/jWorkflow",
+  "homepage": "https://github.com/gtanner/jWorkflow",
   "author": "gtanner",
   "contributors": [{
     "name": "Gord Tanner",
     "email": "gtanner@gmail.com",
     "url": "http://github.com/gtanner"
+  }, {
+    "name": "CatTail",
+    "email": "zhongchiyu@gmail.com",
+    "url": "http://github.com/CatTail"
   }],
   "licenses": [{
     "type": "MIT",
